@@ -1,7 +1,8 @@
 https://github.com/kitconcept/jenkins-pipeline-examples/blob/master/README.rst
 https://jenkins.io/doc/book/pipeline/jenkinsfile/
 https://github.com/jenkinsci/pipeline-examples
-https://www.linkedin.com/pulse/how-build-automated-continuous-deployment-pipeline-jenkins-demiris
+https://www.linkedin.com/pulse/how-build-automated-continuous-deployment-pipeline-jenkins-demiris   ### config bitbucket
+https://medium.com/@mightywomble/jenkins-pipeline-beginners-guide-f3868f715ed9
 ******** TAKE A LOOK
 pipeline {
   agent {
